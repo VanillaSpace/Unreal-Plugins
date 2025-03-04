@@ -14,6 +14,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define MULTIPLAYERSESSIONS_Menu_generated_h
 
+#define FID_MultiplayerPlugin_Plugins_MultiplayerSessions_Source_MultiplayerSessions_Public_Menu_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	DECLARE_FUNCTION(execMenuSetup);
+
+
 #define FID_MultiplayerPlugin_Plugins_MultiplayerSessions_Source_MultiplayerSessions_Public_Menu_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUMenu(); \
@@ -41,6 +45,7 @@ public: \
 #define FID_MultiplayerPlugin_Plugins_MultiplayerSessions_Source_MultiplayerSessions_Public_Menu_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
+	FID_MultiplayerPlugin_Plugins_MultiplayerSessions_Source_MultiplayerSessions_Public_Menu_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
 	FID_MultiplayerPlugin_Plugins_MultiplayerSessions_Source_MultiplayerSessions_Public_Menu_h_15_INCLASS_NO_PURE_DECLS \
 	FID_MultiplayerPlugin_Plugins_MultiplayerSessions_Source_MultiplayerSessions_Public_Menu_h_15_ENHANCED_CONSTRUCTORS \
 private: \

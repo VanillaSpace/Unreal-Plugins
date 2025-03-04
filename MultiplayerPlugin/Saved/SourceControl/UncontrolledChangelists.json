@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/PersonalProject/UnrealPlugins/MultiplayerPlugin/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/PersonalProject/UnrealPlugins/MultiplayerPlugin/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/PersonalProject/UnrealPlugins/MultiplayerPlugin/Plugins/MultiplayerSessions/Content/WBP_Menu.uasset",
+				"D:/PersonalProject/UnrealPlugins/MultiplayerPlugin/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
 			]
 		}
 	]
