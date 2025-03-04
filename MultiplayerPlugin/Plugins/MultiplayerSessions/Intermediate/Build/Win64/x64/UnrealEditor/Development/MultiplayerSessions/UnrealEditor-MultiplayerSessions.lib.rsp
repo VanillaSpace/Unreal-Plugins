@@ -6,8 +6,7 @@
 /NAME:"UnrealEditor-MultiplayerSessions.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\PersonalProject\MultiplayerPlugin\Intermediate\Build\Win64\x64\MultiplayerPluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
-"D:\PersonalProject\MultiplayerPlugin\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\Module.MultiplayerSessions.cpp.obj"
-"D:\PersonalProject\MultiplayerPlugin\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\MultiplayerSessions.cpp.obj"
-"D:\PersonalProject\MultiplayerPlugin\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\Default.rc2.res"
-/OUT:"D:\PersonalProject\MultiplayerPlugin\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\UnrealEditor-MultiplayerSessions.lib"
+"D:\PersonalProject\UnrealPlugins\MultiplayerPlugin\Intermediate\Build\Win64\x64\MultiplayerPluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\PersonalProject\UnrealPlugins\MultiplayerPlugin\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\Module.MultiplayerSessions.cpp.obj"
+"D:\PersonalProject\UnrealPlugins\MultiplayerPlugin\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\Default.rc2.res"
+/OUT:"D:\PersonalProject\UnrealPlugins\MultiplayerPlugin\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\UnrealEditor-MultiplayerSessions.lib"

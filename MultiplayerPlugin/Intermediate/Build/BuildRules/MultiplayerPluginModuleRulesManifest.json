@@ -1,9 +1,9 @@
 {
 	"SourceFiles": [
-		"D:\\PersonalProject\\MultiplayerPlugin\\Source\\MultiplayerPlugin\\MultiplayerPlugin.Build.cs",
-		"D:\\PersonalProject\\MultiplayerPlugin\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\MultiplayerSessions.Build.cs",
-		"D:\\PersonalProject\\MultiplayerPlugin\\Source\\MultiplayerPlugin.Target.cs",
-		"D:\\PersonalProject\\MultiplayerPlugin\\Source\\MultiplayerPluginEditor.Target.cs"
+		"D:\\PersonalProject\\UnrealPlugins\\MultiplayerPlugin\\Source\\MultiplayerPlugin\\MultiplayerPlugin.Build.cs",
+		"D:\\PersonalProject\\UnrealPlugins\\MultiplayerPlugin\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\MultiplayerSessions.Build.cs",
+		"D:\\PersonalProject\\UnrealPlugins\\MultiplayerPlugin\\Source\\MultiplayerPlugin.Target.cs",
+		"D:\\PersonalProject\\UnrealPlugins\\MultiplayerPlugin\\Source\\MultiplayerPluginEditor.Target.cs"
 	],
 	"EngineVersion": "5.5.3"
 }

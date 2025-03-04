@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\personalproject\\multiplayerplugin\\source\\multiplayerplugin\\multiplayerplugincharacter.cpp",
+        "Source": "d:\\personalproject\\unrealplugins\\multiplayerplugin\\source\\multiplayerplugin\\multiplayerplugincharacter.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\personalproject\\multiplayerplugin\\intermediate\\build\\win64\\x64\\multiplayerplugineditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "d:\\personalproject\\unrealplugins\\multiplayerplugin\\intermediate\\build\\win64\\x64\\multiplayerplugineditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "d:\\personalproject\\multiplayerplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayerplugin\\definitions.multiplayerplugin.h",
-            "d:\\personalproject\\multiplayerplugin\\source\\multiplayerplugin\\multiplayerplugincharacter.h",
+            "d:\\personalproject\\unrealplugins\\multiplayerplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayerplugin\\definitions.multiplayerplugin.h",
+            "d:\\personalproject\\unrealplugins\\multiplayerplugin\\source\\multiplayerplugin\\multiplayerplugincharacter.h",
             "e:\\game\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
             "e:\\game\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
             "e:\\game\\ue_5.5\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
@@ -16,7 +16,7 @@
             "e:\\game\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
             "e:\\game\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
             "e:\\game\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
-            "d:\\personalproject\\multiplayerplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerplugin\\uht\\multiplayerplugincharacter.generated.h",
+            "d:\\personalproject\\unrealplugins\\multiplayerplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerplugin\\uht\\multiplayerplugincharacter.generated.h",
             "e:\\game\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
             "e:\\game\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameracomponent.generated.h",
             "e:\\game\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",

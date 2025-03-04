@@ -36,10 +36,9 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
 /NOIMPLIB
-"D:\PersonalProject\MultiplayerPlugin\Intermediate\Build\Win64\x64\MultiplayerPluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
-"D:\PersonalProject\MultiplayerPlugin\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\Module.MultiplayerSessions.cpp.obj"
-"D:\PersonalProject\MultiplayerPlugin\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\MultiplayerSessions.cpp.obj"
-"D:\PersonalProject\MultiplayerPlugin\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\Default.rc2.res"
+"D:\PersonalProject\UnrealPlugins\MultiplayerPlugin\Intermediate\Build\Win64\x64\MultiplayerPluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\PersonalProject\UnrealPlugins\MultiplayerPlugin\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\Module.MultiplayerSessions.cpp.obj"
+"D:\PersonalProject\UnrealPlugins\MultiplayerPlugin\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slate\UnrealEditor-Slate.lib"
@@ -70,6 +69,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"D:\PersonalProject\MultiplayerPlugin\Plugins\MultiplayerSessions\Binaries\Win64\UnrealEditor-MultiplayerSessions.dll"
-/PDB:"D:\PersonalProject\MultiplayerPlugin\Plugins\MultiplayerSessions\Binaries\Win64\UnrealEditor-MultiplayerSessions.pdb"
+/OUT:"D:\PersonalProject\UnrealPlugins\MultiplayerPlugin\Plugins\MultiplayerSessions\Binaries\Win64\UnrealEditor-MultiplayerSessions.dll"
+/PDB:"D:\PersonalProject\UnrealPlugins\MultiplayerPlugin\Plugins\MultiplayerSessions\Binaries\Win64\UnrealEditor-MultiplayerSessions.pdb"
 /ignore:4078

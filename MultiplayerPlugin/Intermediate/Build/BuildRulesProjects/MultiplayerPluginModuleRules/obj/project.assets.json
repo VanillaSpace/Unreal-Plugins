@@ -6955,11 +6955,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PersonalProject\\MultiplayerPlugin\\Intermediate\\Build\\BuildRulesProjects\\MultiplayerPluginModuleRules\\MultiplayerPluginModuleRules.csproj",
+      "projectUniqueName": "D:\\PersonalProject\\UnrealPlugins\\MultiplayerPlugin\\Intermediate\\Build\\BuildRulesProjects\\MultiplayerPluginModuleRules\\MultiplayerPluginModuleRules.csproj",
       "projectName": "MultiplayerPluginModuleRules",
-      "projectPath": "D:\\PersonalProject\\MultiplayerPlugin\\Intermediate\\Build\\BuildRulesProjects\\MultiplayerPluginModuleRules\\MultiplayerPluginModuleRules.csproj",
+      "projectPath": "D:\\PersonalProject\\UnrealPlugins\\MultiplayerPlugin\\Intermediate\\Build\\BuildRulesProjects\\MultiplayerPluginModuleRules\\MultiplayerPluginModuleRules.csproj",
       "packagesPath": "C:\\Users\\aohas\\.nuget\\packages\\",
-      "outputPath": "D:\\PersonalProject\\MultiplayerPlugin\\Intermediate\\Build\\BuildRulesProjects\\MultiplayerPluginModuleRules\\obj\\",
+      "outputPath": "D:\\PersonalProject\\UnrealPlugins\\MultiplayerPlugin\\Intermediate\\Build\\BuildRulesProjects\\MultiplayerPluginModuleRules\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

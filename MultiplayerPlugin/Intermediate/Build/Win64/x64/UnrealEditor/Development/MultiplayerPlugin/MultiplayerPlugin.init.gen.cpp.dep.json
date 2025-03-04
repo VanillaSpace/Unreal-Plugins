@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\personalproject\\multiplayerplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerplugin\\uht\\multiplayerplugin.init.gen.cpp",
+        "Source": "d:\\personalproject\\unrealplugins\\multiplayerplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerplugin\\uht\\multiplayerplugin.init.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\personalproject\\multiplayerplugin\\intermediate\\build\\win64\\x64\\multiplayerplugineditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "d:\\personalproject\\unrealplugins\\multiplayerplugin\\intermediate\\build\\win64\\x64\\multiplayerplugineditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "d:\\personalproject\\multiplayerplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayerplugin\\definitions.multiplayerplugin.h"
+            "d:\\personalproject\\unrealplugins\\multiplayerplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayerplugin\\definitions.multiplayerplugin.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

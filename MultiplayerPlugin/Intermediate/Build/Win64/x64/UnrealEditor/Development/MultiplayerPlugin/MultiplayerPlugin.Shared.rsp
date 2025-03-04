@@ -1,6 +1,6 @@
 /I "."
-/I "D:\PersonalProject\MultiplayerPlugin\Intermediate\Build\Win64\UnrealEditor\Inc\MultiplayerPlugin\UHT"
-/I "D:\PersonalProject\MultiplayerPlugin\Source"
+/I "D:\PersonalProject\UnrealPlugins\MultiplayerPlugin\Intermediate\Build\Win64\UnrealEditor\Inc\MultiplayerPlugin\UHT"
+/I "D:\PersonalProject\UnrealPlugins\MultiplayerPlugin\Source"
 /I "Runtime\Core\Public"
 /I "Runtime\Core\Internal"
 /I "Runtime\TraceLog\Public"
