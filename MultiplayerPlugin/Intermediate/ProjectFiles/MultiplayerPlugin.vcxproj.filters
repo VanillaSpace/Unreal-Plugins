@@ -48,7 +48,19 @@
     <Filter Include="Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private">
       <UniqueIdentifier>{AEFBA6C3-EAEC-3E6A-BF0E-6FC82FC81BDA}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private\Menu.cpp">
+      <Filter>Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private\Menu.h">
+      <Filter>Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private\MultiplayerSessions.cpp">
+      <Filter>Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private\MultiplayerSessionsSubsystem.cpp">
+      <Filter>Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private\MultiplayerSessionsSubsystem.h">
       <Filter>Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private</Filter>
     </ClCompile>
     <Filter Include="Plugins\MultiplayerSessions\Source\MultiplayerSessions\Public">

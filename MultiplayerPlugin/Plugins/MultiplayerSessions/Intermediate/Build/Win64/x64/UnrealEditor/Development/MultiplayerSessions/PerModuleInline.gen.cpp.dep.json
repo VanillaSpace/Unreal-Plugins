@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\personalproject\\unrealplugins\\multiplayerplugin\\plugins\\multiplayersessions\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayersessions\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\personalproject\\unrealplugins\\multiplayerplugin\\intermediate\\build\\win64\\x64\\multiplayerplugineditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\personalproject\\unrealplugins\\multiplayerplugin\\plugins\\multiplayersessions\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayersessions\\definitions.multiplayersessions.h",
+            "e:\\game\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

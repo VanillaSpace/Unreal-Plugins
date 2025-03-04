@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\personalproject\\unrealplugins\\multiplayerplugin\\plugins\\multiplayersessions\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayersessions\\uht\\multiplayersessions.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\personalproject\\unrealplugins\\multiplayerplugin\\intermediate\\build\\win64\\x64\\multiplayerplugineditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\personalproject\\unrealplugins\\multiplayerplugin\\plugins\\multiplayersessions\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayersessions\\definitions.multiplayersessions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
