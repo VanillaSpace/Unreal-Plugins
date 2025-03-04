@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MultiplayerPlugin",
+			"Path": "..\\Source\\MultiplayerPlugin.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MultiplayerPluginEditor",
+			"Path": "..\\Source\\MultiplayerPluginEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

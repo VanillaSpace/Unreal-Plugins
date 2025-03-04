@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\personalproject\\multiplayerplugin\\source\\multiplayerplugin\\multiplayerplugingamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\personalproject\\multiplayerplugin\\intermediate\\build\\win64\\x64\\multiplayerplugineditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\personalproject\\multiplayerplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\multiplayerplugin\\definitions.multiplayerplugin.h",
+            "d:\\personalproject\\multiplayerplugin\\source\\multiplayerplugin\\multiplayerplugingamemode.h",
+            "e:\\game\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\game\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\game\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "e:\\game\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\personalproject\\multiplayerplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerplugin\\uht\\multiplayerplugingamemode.generated.h",
+            "d:\\personalproject\\multiplayerplugin\\source\\multiplayerplugin\\multiplayerplugincharacter.h",
+            "e:\\game\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "e:\\game\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "e:\\game\\ue_5.5\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
+            "e:\\game\\ue_5.5\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "e:\\game\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "e:\\game\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "e:\\game\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "e:\\game\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "e:\\game\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "d:\\personalproject\\multiplayerplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\multiplayerplugin\\uht\\multiplayerplugincharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
